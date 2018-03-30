@@ -5,7 +5,7 @@ body {
 
 h1 {
   font-family: Verdana;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: White;
   text-align: center;
@@ -14,4 +14,23 @@ h1 {
 .cta {
   color: Aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+  font-weight: bold;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.footer {
+  text-align: Right;
+  color: Gray;
 }
